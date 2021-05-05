@@ -1,8 +1,6 @@
-### Hi there 👋
 
-<!--
-**jaussems/jaussems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> </a>
+
+
 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="TypeScript" title="TypeScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" /> </a>
 
@@ -26,6 +24,6 @@
 
 ## Feel free to reach me at my LinkedIn!
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-📫 sendtopow@gmail.com
+📫 jannesaussems@gmail.com
 
 [linkedin]: https://www.linkedin.com/jannesaussems/
