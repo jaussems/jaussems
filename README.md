@@ -1,6 +1,6 @@
 # Welcome to my Github! 
 
-Hi, my name is Jannes I am 24 years old and I am from the Netherlands. As a child I was always intrested in computers, after trying the schoolingsystem I feel like doing something that is more do-able instead of theorizing about it. So after a long detour I came to coding, which is really hard but can also be quite fun. Currently I am student at Codaisseur. 
+Hi, my name is Jannes I am 24 years old and I am from the Netherlands. As a child I was always intrested in computers, after trying the schoolingsystem I felt that it wasn't for me, after trying a  different Bootcamp I got really intrested about coding. So after a long detour I am still thinking about coding, which is really hard but can also be quite fun. Currently I am student at Codaisseur. 
 
 
 
