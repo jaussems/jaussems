@@ -1,6 +1,10 @@
+<img src="https://images.wallpaperscraft.com/image/code_text_colorful_140555_1920x1080.jpg" />
+
+
+
 # Welcome to my Github! 
 
-Hi, my name is Jannes I am 24 years old and I am from the Netherlands. As a child I was always intrested in computers, after trying the schoolingsystem I felt that it wasn't for me, after trying a  different Bootcamp I got really intrested about coding. So after a long detour I am still thinking about coding, which is really hard but can also be quite fun. Currently I am student at Codaisseur. 
+Hi, my name is Jannes I am 24 years old and I am from the Netherlands. As a child I was always intrested in computers, after trying the schoolingsystem I felt that it wasn't for me, after trying a  different Bootcamp I got really intrested about coding. So after a long detour I am still thinking about coding, which is really hard but can also be quite fun. After following a bootcamp through Codaisseur I am now looking for a job.
 
 
 
