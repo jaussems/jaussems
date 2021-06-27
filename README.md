@@ -7,6 +7,7 @@
 Hi, my name is Jannes I am 24 years old and I am from the Netherlands. As a child I was always intrested in computers, after trying the schoolingsystem I felt that it wasn't for me, after trying a  different Bootcamp I got really interested about coding. So after a long detour I am able to code somethings and work with Rest API's, I know React / Redux and I am able to make awesome webpages,coding is really hard but can also be quite fun. After completing a bootcamp provided by Codaisseur I am now eager and looking for a job.
 
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> </a>
 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="TypeScript" title="TypeScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" /> </a>
 
