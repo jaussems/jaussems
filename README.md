@@ -12,8 +12,7 @@ Hi, my name is Jannes I am 24 years old and I am from the Netherlands. As a chil
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="TypeScript" title="TypeScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" /> </a>
 
   
-<a href="https://angular.io/" target="_blank"> <img align="left" alt="Angular" title="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png  
-" /> </a>
+<a href="https://angular.io/" target="_blank"> <img align="left" alt="Angular" title="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" /> </a>
 
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" title="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> </a>
 
