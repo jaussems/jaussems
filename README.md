@@ -4,7 +4,7 @@
 
 # Welcome to my Github! 
 
-Hi, my name is Jannes I am 27 years old and I am from the Netherlands. As a child I was always intrested in computers, after trying the schoolingsystem I felt that it wasn't for me, after trying a  different Bootcamp I got really interested about coding. So after a long detour I am able to code applications and work with Rest API's, I know React / Redux, Angular and I am able to make awesome webpages,coding is really hard but can also be quite fun. Coding is an ongoing proces, and for me as a developer it's the tiny steps that matter. My motto is to become 1% better everyday, progess not perfection. 
+Hi, my name is Jannes I am 28 years old and I am from the Netherlands. As a child I was always intrested in computers, after trying the schoolingsystem I felt that it wasn't for me, after trying a  different Bootcamp I got really interested about coding. So after a long detour I am able to code applications and work with Rest API's, I know React / Redux, Angular and I am able to make awesome webpages,coding is really hard but can also be quite fun. Coding is an ongoing proces, and for me as a developer it's the tiny steps that matter. My motto is to become 1% better everyday, progess not perfection. 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> </a>
 
